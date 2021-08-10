@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/body.png</file>
+        <file>Images/head.png</file>
+        <file>Images/lifeApple.png</file>
+        <file>Images/normalApple.png</file>
+        <file>Images/specialApple.png</file>
+        <file>Images/speedDownApple.png</file>
+        <file>Images/speedUpApple.png</file>
+        <file>Images/wall.png</file>
+        <file>Images/another.png</file>
+        <file>Images/anotherbody.png</file>
+        <file>Images/background.jpg</file>
+    </qresource>
+</RCC>
